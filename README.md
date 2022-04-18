@@ -18,3 +18,6 @@
 
 <br />
 <b> Movie Project with Django.. </b>
+
+Django Documentation : 
+https://docs.djangoproject.com/en/4.0/topics/
